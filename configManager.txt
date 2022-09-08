@@ -1,0 +1,9 @@
+inputFile=files/inPutFile.txt
+outputFile=files/outPutFile.txt
+readerClassName=semen.Reader
+writerClassName=semen.Writer
+executor_class_list = com.executor.Executor, com.executor.Executor, semen.Executor, semen.Executor #different executors
+executor_config_file_list = files/Artur/configExecutor2.txt, files/Artur/configExecutor1.txt, files/configExecutor.txt, files/configExecutor2.txt
+#comment
+readerConfigFile=files/configReader.txt
+writerConfigFile=files/configWriter.txt
